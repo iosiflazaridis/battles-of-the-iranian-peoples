@@ -1,78 +1,80 @@
 ﻿table,row,scored,won,drawn,lost,won %,first,last
-By opponent group,All opponents,1576,730,68,778,46,-815,2026
+By opponent group,All opponents,1655,768,72,815,46,-815,2026
 By opponent group,The ancient Near East,50,33,4,13,66,-815,1843
 By opponent group,Greeks,140,58,3,79,41,-546,190
 By opponent group,Romans,222,95,7,120,43,-190,1323
-By opponent group,Arabs,327,160,11,156,49,130,2026
-By opponent group,"Turks, Mongols and China",256,114,6,136,45,-104,2022
-By opponent group,The Caucasus and Russia,134,50,7,77,37,-522,2008
+By opponent group,Arabs,330,162,11,157,49,130,2026
+By opponent group,"Turks, Mongols and China",328,148,10,170,45,-104,2022
+By opponent group,The Caucasus and Russia,135,50,7,78,37,-522,2008
 By opponent group,India and Pakistan,237,137,20,80,58,-326,2026
 By opponent group,Western powers and Israel,181,64,8,109,35,406,2026
-By opponent group,Goths and others,29,19,2,8,66,-492,2009
+By opponent group,Goths and others,32,21,2,9,66,-492,2009
 By Iranian people,Medes,13,6,1,6,46,-815,-217
-By Iranian people,Persians,959,466,43,450,49,-691,2026
+By Iranian people,Persians,1019,496,46,477,49,-691,2026
 By Iranian people,Scythians,9,3,0,6,33,-676,190
 By Iranian people,Saka,17,12,0,5,71,-329,1006
 By Iranian people,Sarmatians,15,3,0,12,20,-89,468
-By Iranian people,Sogdians,56,22,1,33,39,-326,927
-By Iranian people,Bactrians,8,1,0,7,12,-326,710
-By Iranian people,Parthians,45,21,0,24,47,-317,619
-By Iranian people,Daylamites,28,19,1,8,68,-217,1481
-By Iranian people,Alans,45,24,1,20,53,374,2008
+By Iranian people,Sogdians,59,24,1,34,41,-326,927
+By Iranian people,Bactrians,10,2,0,8,20,-326,737
+By Iranian people,Parthians,46,22,0,24,48,-317,619
+By Iranian people,Daylamites,41,28,2,11,68,-217,1481
+By Iranian people,Alans,47,24,1,22,51,374,2008
 By Iranian people,Hephthalites?,9,1,0,8,11,456,710
-By Iranian people,Kurds,182,97,8,77,53,838,2026
-By Iranian people,Baloch,25,4,3,18,16,1030,2026
-By Iranian people,Pashtuns,204,74,13,117,36,1347,2026
+By Iranian people,Kurds,188,100,8,80,53,838,2026
+By Iranian people,Baloch,26,4,3,19,15,1030,2026
+By Iranian people,Pashtuns,209,77,13,119,37,1051,2026
 By Iranian people,Lurs,11,5,0,6,45,1774,1783
-By Iranian people,Other peoples,9,4,0,5,44,-714,2014
-The 33 main opponents,Rome,220,92,7,121,42,-190,1323
-The 33 main opponents,Arab caliphates,115,22,1,92,19,633,944
-The 33 main opponents,Britain,89,15,2,72,17,1764,1941
-The 33 main opponents,Ottomans,80,36,1,43,45,1400,1916
-The 33 main opponents,Iraq,67,33,4,30,49,1966,2017
-The 33 main opponents,Indian kingdoms,48,39,3,6,81,864,1398
-The 33 main opponents,Islamic State,47,43,1,3,91,2012,2022
-The 33 main opponents,Mughals,46,22,1,23,48,1532,1757
-The 33 main opponents,Russia,38,7,2,29,18,1651,1918
-The 33 main opponents,Macedon,35,7,0,28,20,-340,-322
-The 33 main opponents,Crusaders,35,20,5,10,57,1098,1402
-The 33 main opponents,Athens,31,9,1,21,29,-498,-366
-The 33 main opponents,Georgia,28,15,2,11,54,914,2008
-The 33 main opponents,Turkey,27,7,2,18,26,1925,2024
-The 33 main opponents,Mongols,26,4,0,22,15,1220,1256
-The 33 main opponents,Syrian rebels,24,15,3,6,62,2012,2024
-The 33 main opponents,Greek cities,23,15,1,7,65,-546,40
-The 33 main opponents,Tang China,20,9,0,11,45,721,763
-The 33 main opponents,Armenia,19,10,0,9,53,-522,921
-The 33 main opponents,Uzbeks,18,13,0,5,72,1500,1855
-The 33 main opponents,Sparta,17,8,1,8,47,-480,-391
-The 33 main opponents,Marathas,15,8,0,7,53,1689,1772
-The 33 main opponents,Seleucids,14,8,0,6,57,-311,-87
-The 33 main opponents,Assyria,13,6,1,6,46,-815,-610
-The 33 main opponents,Arab tribes,11,5,0,6,45,130,1783
-The 33 main opponents,United States,11,1,1,9,9,1987,2026
-The 33 main opponents,Dagestanis,10,6,0,4,60,1660,1745
-The 33 main opponents,Egypt,9,6,0,3,67,-525,-343
-The 33 main opponents,Vijayanagara Empire,9,7,0,2,78,1366,1472
-The 33 main opponents,Sikhs,9,0,3,6,0,1807,1837
-The 33 main opponents,Portugal,8,4,0,4,50,1507,1623
-The 33 main opponents,Jat kingdom of Bharatpur,8,7,0,1,88,1757,1776
-The 33 main opponents,Soviet Union,8,2,0,6,25,1929,1988
-By Iranian part,Iranian leader,1286,592,51,643,46,-815,2026
-By Iranian part,Iranian contingent only,290,138,17,135,48,-365,2014
-By kind of battle,Field battles,1022,465,43,514,45,-815,2026
-By kind of battle,Sieges,511,253,23,235,50,-716,2026
+By Iranian people,Other peoples,12,4,1,7,33,-714,2014
+The 35 main opponents,Rome,220,92,7,121,42,-190,1323
+The 35 main opponents,Arab caliphates,118,24,1,93,20,633,944
+The 35 main opponents,Britain,89,15,2,72,17,1764,1941
+The 35 main opponents,Ottomans,81,37,1,43,46,1400,1916
+The 35 main opponents,Iraq,67,33,4,30,49,1966,2017
+The 35 main opponents,Indian kingdoms,48,39,3,6,81,864,1398
+The 35 main opponents,Islamic State,47,43,1,3,91,2012,2022
+The 35 main opponents,Mughals,46,22,1,23,48,1532,1757
+The 35 main opponents,Russia,38,7,2,29,18,1651,1918
+The 35 main opponents,Macedon,35,7,0,28,20,-340,-322
+The 35 main opponents,Crusaders,35,20,5,10,57,1098,1402
+The 35 main opponents,Athens,31,9,1,21,29,-498,-366
+The 35 main opponents,Georgia,28,15,2,11,54,914,2008
+The 35 main opponents,Mongols,27,4,0,23,15,1220,1256
+The 35 main opponents,Turkey,27,7,2,18,26,1925,2024
+The 35 main opponents,Syrian rebels,24,15,3,6,62,2012,2024
+The 35 main opponents,Greek cities,23,15,1,7,65,-546,40
+The 35 main opponents,Tang China,20,9,0,11,45,721,763
+The 35 main opponents,Armenia,19,10,0,9,53,-522,921
+The 35 main opponents,Uzbeks,18,13,0,5,72,1500,1855
+The 35 main opponents,Sparta,17,8,1,8,47,-480,-391
+The 35 main opponents,Marathas,15,8,0,7,53,1689,1772
+The 35 main opponents,Seleucids,14,8,0,6,57,-311,-87
+The 35 main opponents,Assyria,13,6,1,6,46,-815,-610
+The 35 main opponents,Arab tribes,11,5,0,6,45,130,1783
+The 35 main opponents,Great Seljuks,11,6,1,4,55,1040,1117
+The 35 main opponents,United States,11,1,1,9,9,1987,2026
+The 35 main opponents,Dagestanis,10,6,0,4,60,1660,1745
+The 35 main opponents,Egypt,9,6,0,3,67,-525,-343
+The 35 main opponents,Vijayanagara Empire,9,7,0,2,78,1366,1472
+The 35 main opponents,Sikhs,9,0,3,6,0,1807,1837
+The 35 main opponents,Golden Horde,8,6,0,2,75,1278,1395
+The 35 main opponents,Portugal,8,4,0,4,50,1507,1623
+The 35 main opponents,Jat kingdom of Bharatpur,8,7,0,1,88,1757,1776
+The 35 main opponents,Soviet Union,8,2,0,6,25,1929,1988
+By Iranian part,Iranian leader,1340,615,55,670,46,-815,2026
+By Iranian part,Iranian contingent only,315,153,17,145,49,-365,2014
+By kind of battle,Field battles,1061,490,43,528,46,-815,2026
+By kind of battle,Sieges,551,266,27,258,48,-716,2026
 By kind of battle,Sea battles,43,12,2,29,28,-497,2026
 By period,"The Medes, the Scythians and the first Persians (to 550 BCE)",16,8,2,6,50,,
 By period,The Achaemenid Empire (550–330 BCE),129,69,4,56,53,,
 By period,Alexander and his successors (329–248 BCE),21,5,1,15,24,,
 By period,"Parthians, Sakas and Sarmatians (247 BCE–223 CE)",118,47,2,69,40,,
-By period,The Sasanians and the Alans (224–651),232,86,4,142,37,,
-By period,Under the caliphate (652–860),90,40,1,49,44,,
-By period,The Iranian dynasties (861–1040),82,53,5,24,65,,
-By period,The Ayyubids and the Ghurids (1041–1255),129,69,9,51,53,,
-By period,The Mongol and Timurid age (1256–1500),77,55,0,22,71,,
-By period,The Safavids and the Afghans (1501–1736),181,93,1,87,51,,
-By period,"Nader Shah, the Durranis and the Qajars (1737–1900)",203,75,14,114,37,,
-By period,Frontier wars and revolutions (1901–1978),80,20,1,59,25,,
+By period,The Sasanians and the Alans (224–651),235,88,4,143,37,,
+By period,Under the caliphate (652–860),93,42,1,50,45,,
+By period,The Iranian dynasties (861–1040),85,53,5,27,62,,
+By period,The Ayyubids and the Ghurids (1041–1255),169,86,13,70,51,,
+By period,The Mongol and Timurid age (1256–1500),95,64,0,31,67,,
+By period,The Safavids and the Afghans (1501–1736),187,99,1,87,53,,
+By period,"Nader Shah, the Durranis and the Qajars (1737–1900)",207,76,14,117,37,,
+By period,Frontier wars and revolutions (1901–1978),82,21,1,60,26,,
 By period,"The Islamic Republic, Afghanistan and the Kurds (1979–2026)",218,110,24,84,50,,
